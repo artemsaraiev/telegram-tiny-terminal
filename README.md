@@ -52,6 +52,7 @@ By default, the client uses Ollama ([installation instructions](https://github.c
 
 
 ## Usage
+![Demo](demo.gif)
 
 1. Start the client:
 ```bash
